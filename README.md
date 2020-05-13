@@ -1,6 +1,13 @@
 # nes_flash_cartridge
 
-## SNROM Back
+## SNROM Front
+<img src="./nes_snrom_front.svg">
 
-![Alt text](./nes_snrom_back.svg)
+## SNROM Back
 <img src="./nes_snrom_back.svg">
+
+## SGROM Front
+<img src="./nes_sgrom_front.svg">
+
+## SGROM Back
+<img src="./nes_sgrom_back.svg">
