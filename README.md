@@ -1,13 +1,12 @@
 # nes_flash_cartridge
 
-## SNROM Front
-<img src="./svg/nes_snrom_front.svg">
+## SGROM
 
-## SNROM Back
-<img src="./svg/nes_snrom_back.svg">
+PRG_ROM: 256 kB NOR-Flash
+CHR_RAM:   8 kB RAM
 
-## SGROM Front
-<img src="./svg/nes_sgrom_front.svg">
+## SNROM
 
-## SGROM Back
-<img src="./svg/nes_sgrom_back.svg">
+PRG_ROM: 256 kB NOR-Flash
+PRG_RAM:   8 kB RAM
+CHR_RAM:   8 kB RAM
